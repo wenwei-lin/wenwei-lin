@@ -9,10 +9,11 @@ Product manager who also writes code, based in Shanghai. Friends call me 小威.
 
 ### Things I've made
 
+- [Noodling](https://github.com/wenwei-lin/scribby): an AI writing companion that makes practice feel like a walk, AdventureX 2025
+- [Hearing the World](https://github.com/MLSA-Social-Impact-Project-Jan-Mar-23): describing faces, scenery and stories for people who can't see them, Microsoft Learn Student Ambassador social impact project
 - [Serendip](https://github.com/wenwei-lin/serendip): turning post-work fatigue into micro-adventures, 2025 Microsoft AI Agent Hackathon
-- Noodling: an AI writing companion that walks with you, AdventureX 2025
-- Hearing the World: describing faces, scenery and stories for people who can't see them, Student Ambassador social impact project
-- Contributions to [Cherry Studio](https://github.com/CherryHQ/cherry-studio)
+- [Cherry Studio](https://github.com/CherryHQ/cherry-studio/pulls?q=is%3Apr+author%3Awenwei-lin+is%3Amerged): 6 merged PRs to the desktop LLM client
+- Also contributed to [BotSharp](https://github.com/SciSharp/BotSharp/pulls?q=is%3Apr+author%3Awenwei-lin+is%3Amerged) and [BotSharp-UI](https://github.com/SciSharp/BotSharp-UI/pulls?q=is%3Apr+author%3Awenwei-lin+is%3Amerged), a .NET (C#) multi-agent framework
 
 ### Find me
 
