@@ -2,7 +2,7 @@
 
 Product manager who also writes code, based in Shanghai. Friends call me 小威.
 
-- For three years at **Black Lake Technologies** I built software for factories: a WPS spreadsheet add-in now used by nearly 2,000 factories a day, and AI agents that read handwritten shop-floor forms (a granted patent, first inventor) and set the system up for customers.
+- For three years at **Black Lake Technologies** I built software for factories: a WPS spreadsheet add-in now used by nearly 2,000 factories a day, and AI agents that read handwritten shop-floor forms ([a granted patent](https://patents.google.com/patent/CN122154946B/zh), first inventor) and set the system up for customers.
 - **Gold Microsoft Learn Student Ambassador** (2021–2024). B.Eng. in Software Engineering, Jiangsu University of Technology.
 - I still code, mostly to build prototypes and see whether an idea holds up. Lately: front-end, iOS (SwiftUI), and working with coding agents.
 - Old slogan: *Tech for Humanity*. Still figuring out what it means.
@@ -19,4 +19,5 @@ Product manager who also writes code, based in Shanghai. Friends call me 小威.
 
 - Website: [wenwei.site](https://www.wenwei.site) · [About](https://www.wenwei.site/about)
 - LinkedIn: [wenwei-lin](https://www.linkedin.com/in/wenwei-lin)
+- Bonjour!: [文威的数字名片](https://bonjour.bio/w8jxe5)
 - [Meet a recent Microsoft Learn Student Ambassador graduate Wenwei Lin](https://techcommunity.microsoft.com/blog/studentdeveloperblog/meet-a-recent-microsoft-learn-student-ambassador-graduate-wenwei-lin/4232663) (Microsoft Student Developer Blog, 2024)
