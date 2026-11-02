@@ -23,6 +23,7 @@ Product manager who also writes code, based in Shanghai. Friends call me 小威.
 
 ### Find me
 
+- Email: [wenwei66.lin@gmail.com](mailto:wenwei66.lin@gmail.com)
 - Website: [wenwei.site](https://www.wenwei.site) · [About](https://www.wenwei.site/about)
 - LinkedIn: [wenwei-lin](https://www.linkedin.com/in/wenwei-lin)
 - Bonjour!: [文威的数字名片](https://bonjour.bio/w8jxe5)
