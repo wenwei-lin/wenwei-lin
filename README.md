@@ -21,7 +21,9 @@ Product manager who also writes code, based in Shanghai. Friends call me 小威.
 - [Microsoft Learn AI Skills Challenge · mid-challenge party](https://developer.microsoft.com/zh-cn/reactor/events/20544/), speaker, Microsoft Reactor, Aug 2023
 - [Global Azure 2023 China · Shanghai](https://www.huodongxing.com/event/6701672077811), panelist, May 2023 (also mentioned in the [MVP blog recap](https://techcommunity.microsoft.com/blog/mvpawardprogramblog/global-azure-2023-led-by-microsoft-mvps-around-the-world/3854244))
 
-### Find me
+### Say hi
+
+I'd love to hear from you — about software for factories, AI agents, or a book you liked. Email is the best way to reach me.
 
 - Email: [wenwei66.lin@gmail.com](mailto:wenwei66.lin@gmail.com)
 - Website: [wenwei.site](https://www.wenwei.site) · [About](https://www.wenwei.site/about)
