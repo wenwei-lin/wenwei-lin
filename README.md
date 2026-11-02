@@ -2,7 +2,7 @@
 
 Product manager who also writes code, based in Shanghai. Friends call me 小威.
 
-- For three years at **Black Lake Technologies** I built software for factories: a WPS spreadsheet add-in now used by nearly 2,000 factories a day, and AI agents that read handwritten shop-floor forms ([a granted patent](https://patents.google.com/patent/CN122154946B/zh), first inventor) and set the system up for customers.
+- For three years at **Black Lake Technologies** I built software for factories: a WPS spreadsheet add-in now used by over a thousand factories, and AI agents that read handwritten shop-floor forms ([a granted patent](https://patents.google.com/patent/CN122154946B/zh), first inventor) and set the system up for customers.
 - **Gold Microsoft Learn Student Ambassador** (2021–2024). B.Eng. in Software Engineering, Jiangsu University of Technology.
 - I still code, mostly to build prototypes and see whether an idea holds up. Lately: front-end, iOS (SwiftUI), and working with coding agents.
 - Old slogan: *Tech for Humanity*. Still figuring out what it means.
